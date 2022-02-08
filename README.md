@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EduardPricop
 - 👀 I’m interested in Mobile Dev
 - 🌱 I’m currently learning Android Dev
-- 💞️ I’m looking to collaborate on interesting project
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me https://www.facebook.com/pricop.edy/
 
 <!---
